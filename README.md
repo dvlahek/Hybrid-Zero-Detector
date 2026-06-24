@@ -9,10 +9,8 @@ used in the manuscript on hybrid Gaussian–wavelet sampled-data zero localizati
   Core detector implementation based on:
   - Gaussian smoothing of sampled data,
   - a smoothed derivative proxy,
-  - the practical detector score  
-    \[
-    D = \frac{|P|}{|W| + \varepsilon},
-    \]
+  - the practical detector score
+    D = |P| / (|W| + eps)`
   - candidate extraction from local minima of the detector score,
   - optional Newton refinement helper.
 
