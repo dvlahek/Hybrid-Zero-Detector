@@ -15,7 +15,7 @@ used in the manuscript on hybrid Gaussian–wavelet sampled-data zero localizati
   - optional Newton refinement helper.
 
 - `example_usage.py`  
-  Minimal runnable example on a synthetic oscillatory test function.
+  Minimal runnable example on a Sturm–Liouville residual.
 
 ## Scope of this starter release
 
